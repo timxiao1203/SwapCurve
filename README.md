@@ -10,6 +10,8 @@ Swap curves can be categoried into swap rate curves, basis curves, and OIS curve
 
 The swap rate curve consists of a set of the most liquid and dominant interest rate products for certain time horizons. Normally the curve is divided into three parts. The short end of the term structure is determined by deposit rates. The middle part of the curve uses Eurodollar futures or FRAs. The far end is given by mid swap rates.
 
-reference
+references:
 
 https://finpricing.com/lib/IrCurveIntroduction.html
+
+https://bitbucket.org/timxiao1203/ircurveintroduction/downloads/IrCurveIntroduction-1.pdf
