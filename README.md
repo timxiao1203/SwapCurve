@@ -13,5 +13,3 @@ The swap rate curve consists of a set of the most liquid and dominant interest r
 references:
 
 https://finpricing.com/lib/IrCurveIntroduction.html
-
-https://bitbucket.org/timxiao1203/ircurveintroduction/downloads/IrCurveIntroduction-1.pdf
